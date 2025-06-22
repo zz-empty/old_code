@@ -1,0 +1,16 @@
+2024-08-11 09:51:34,845 Mycat [INFO] This is an info message. number = 100, str = hello
+ 
+2024-08-11 09:51:34,845 Mycat [WARN] this is a warn message!
+ 
+2024-08-11 09:51:34,845 Mycat [ERROR] this is a error message! str=hello
+ 
+2024-08-11 09:51:34,845 Mycat [DEBUG] this is a debug message!,number=100
+ 
+2024-08-11 10:52:36,075 Mycat [INFO] This is an info message. number = 100, str = hello
+ 
+2024-08-11 10:52:36,076 Mycat [WARN] this is a warn message!
+ 
+2024-08-11 10:52:36,076 Mycat [ERROR] this is a error message! str=hello
+ 
+2024-08-11 10:52:36,076 Mycat [DEBUG] this is a debug message!,number=100
+ 

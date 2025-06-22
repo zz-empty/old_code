@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/student.dir/testStudent.cc.o -o student   -L/home/zkong/learning/c++/2_Class/v2/lib1  -Wl,-rpath,/home/zkong/learning/c++/2_Class/v2/lib1 -lstu 

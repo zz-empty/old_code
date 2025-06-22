@@ -1,0 +1,20 @@
+2024-08-04 15:36:57,661 Mycat [WARN] 	testLogger.cctest124   something is warn! 
+2024-08-04 15:36:57,661 Mycat [ERROR] 	testLogger.cctest125   something is error! 
+2024-08-04 15:36:57,661 Mycat [DEBUG] 	testLogger.cctest126   something is debug! 
+2024-08-04 15:36:57,662 Mycat [INFO] 	testLogger.cctest127   the important info! 
+2024-08-04 15:38:47,000 Mycat [WARN] 	[testLogger.cc  test1  24]   something is warn! 
+2024-08-04 15:38:47,000 Mycat [ERROR] 	[testLogger.cc  test1  25]   something is error! 
+2024-08-04 15:38:47,000 Mycat [DEBUG] 	[testLogger.cc  test1  26]   something is debug! 
+2024-08-04 15:38:47,000 Mycat [INFO] 	[testLogger.cc  test1  27]   the important info! 
+2024-08-04 15:39:42,973 Mycat [WARN] 	[testLogger.cc--test1--24]	something is warn! 
+2024-08-04 15:39:42,973 Mycat [ERROR] 	[testLogger.cc--test1--25]	something is error! 
+2024-08-04 15:39:42,973 Mycat [DEBUG] 	[testLogger.cc--test1--26]	something is debug! 
+2024-08-04 15:39:42,973 Mycat [INFO] 	[testLogger.cc--test1--27]	the important info! 
+2024-08-04 15:40:12,353 Mycat [WARN] 	[testLogger.cc test1 24]	something is warn! 
+2024-08-04 15:40:12,353 Mycat [ERROR] 	[testLogger.cc test1 25]	something is error! 
+2024-08-04 15:40:12,353 Mycat [DEBUG] 	[testLogger.cc test1 26]	something is debug! 
+2024-08-04 15:40:12,353 Mycat [INFO] 	[testLogger.cc test1 27]	the important info! 
+2024-08-04 15:45:56,341 Mycat [INFO] 	[testLogger.cc test2 34]	info is comming! 
+2024-08-04 15:45:56,341 Mycat [WARN] 	[testLogger.cc test2 35]	warn is comming! 
+2024-08-04 15:45:56,341 Mycat [DEBUG] 	[testLogger.cc test2 36]	debug is comming! 
+2024-08-04 15:45:56,341 Mycat [ERROR] 	[testLogger.cc test2 37]	error is comming! 

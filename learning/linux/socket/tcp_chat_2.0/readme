@@ -1,0 +1,21 @@
+tcp chat2.0
+
+在1.0的基础上
+    实现select监听stdin和socket
+    使用循环实现计时聊天
+    实现退出机制
+
+server
+    设定socket套接字，绑定服务器ip和端口
+    等待客户端连接
+    一旦有tcp连接请求，通过accept返回一个新的socket，用于与客户端通信
+        select循环监听stdin和clientFd，进行信息交互
+        一旦对端断开，退出循环
+
+client
+    设定socket套接字，绑定服务器ip和端口
+    connect申请服务器连接
+    连接成功
+        select循环监听stdin和clientFd，进行信息交互
+        一旦对端断开，退出循环
+    

@@ -1,0 +1,3 @@
+/home/zkong/learning/c++/2_Class/v2/build/CMakeFiles/student.dir
+/home/zkong/learning/c++/2_Class/v2/build/CMakeFiles/edit_cache.dir
+/home/zkong/learning/c++/2_Class/v2/build/CMakeFiles/rebuild_cache.dir

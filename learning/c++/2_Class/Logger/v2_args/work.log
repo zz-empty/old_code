@@ -1,0 +1,4 @@
+2024-08-11 10:02:08,018 Mycat [INFO] 	[Logger.hpp info 180]	 
+2024-08-11 10:02:08,018 Mycat [WARN] 	[Logger.hpp warn 143]	 
+2024-08-11 10:02:08,018 Mycat [DEBUG] 	[Logger.hpp debug 156]	 
+2024-08-11 10:02:08,018 Mycat [ERROR] 	[Logger.hpp error 168]	 

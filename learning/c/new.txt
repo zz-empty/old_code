@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+typedef struct Student {
+ int id;
+ char name[20];
+ float score;
+}Stu_t, *pStu_t;
+
+int main()
+{
+ Stu_t s = {
+ .id = 1001,
+ .name = "hurry",
+ .score = 29
+ };
+ /* printf("please input a student info(id, name, score): "); */
+ /* scanf("%d%s%f", &s.id, s.name, &s.score); */
+
+ printf("the stu_info => id:%d, name:%s, score:%5.2f\n", s.id, s.name, s.score);
+ 
+ return 0;
+}

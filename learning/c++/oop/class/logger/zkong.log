@@ -1,0 +1,4 @@
+2024-07-08 13:59:08,009 Mycat [INFO] 	main.cc test6 73    normal info 
+2024-07-08 13:59:08,010 Mycat [WARN] 	main.cc test6 74    warning 
+2024-07-08 13:59:08,010 Mycat [ERROR] 	main.cc test6 75    something error 
+2024-07-08 13:59:08,010 Mycat [DEBUG] 	main.cc test6 76    few bug 

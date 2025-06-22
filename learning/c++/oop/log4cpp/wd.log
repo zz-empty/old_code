@@ -1,0 +1,8 @@
+2024-07-04 11:39:04,649  [FATAL] The log is fatal 
+2024-07-04 11:39:04,649  [ALERT] The log is alert 
+2024-07-04 11:39:04,649  [CRIT] The log is crit 
+2024-07-04 11:39:04,649  [ERROR] The log is error 
+2024-07-04 11:47:11,225 testlog [FATAL] The log is fatal 
+2024-07-04 11:47:11,225 testlog [ALERT] The log is alert 
+2024-07-04 11:47:11,225 testlog [CRIT] The log is crit 
+2024-07-04 11:47:11,225 testlog [ERROR] The log is error 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/zkong/myexec/lib/libstu.a CMakeFiles/stu.dir/src/student.cc.o CMakeFiles/stu.dir/src/testStudent.cc.o
+/usr/bin/ranlib /home/zkong/myexec/lib/libstu.a
